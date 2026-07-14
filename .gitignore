@@ -1,0 +1,11 @@
+.env
+
+qdrant_local_db/
+
+.venv/
+
+__pycache__/
+
+*.html
+
+*.pyc
