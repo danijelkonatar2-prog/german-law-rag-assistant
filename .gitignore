@@ -1,11 +1,33 @@
+# Environment variables
 .env
+.envrc
 
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Qdrant local database
 qdrant_local_db/
 
-.venv/
-
-__pycache__/
-
+# Legal documents (local only)
 *.html
 
+# Compiled Python files
 *.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
