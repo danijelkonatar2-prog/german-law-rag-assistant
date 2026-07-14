@@ -31,7 +31,7 @@ strafgesetzbuch_rag/
 ├── rag.py                 # Retrieval and answer generation
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-├── .env                   # API key (not included in repository)
+├── .env                   # Environment variables (not included in repository)
 └── qdrant_local_db/       # Local vector database (not included in repository)
 ```
 
